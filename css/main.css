@@ -21,7 +21,7 @@ a:hover {
     text-decoration: underline;
 }
 h1 {
-    margin-left: -10px;
+    margin-left: -25px;
     font-size: 2.5em;
     font-family: "Playfair Display", sans-serif;
     font-style: italic;
@@ -30,7 +30,7 @@ h1 {
 p {
     font-family: "Roboto", serif;
     font-size: 1em;
-    line-height: 1.1em;
+    line-height: 1.2em;
     color: #333;
 }
 footer {
