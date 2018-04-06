@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Playfair+Display:bolditalic');
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:bolditalic|Roboto');
 body {
     margin: 60px auto;
     width: 70%;
@@ -27,7 +27,7 @@ h1 {
     font-weight: 700;
 }
 p {
-    font-family: "Georgia", "Times", "Times New Roman", serif;
+    font-family: "Roboto", serif;
     font-size: 1.5em;
     line-height: 1.4em;
     color: #333;
