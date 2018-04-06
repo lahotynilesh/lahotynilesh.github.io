@@ -22,7 +22,7 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: italic 700 "Playfair Display", sans-serif;
+    font-family: bold italic "Playfair Display", sans-serif;
 }
 p {
     font-family: "Georgia", "Times", "Times New Roman", serif;
