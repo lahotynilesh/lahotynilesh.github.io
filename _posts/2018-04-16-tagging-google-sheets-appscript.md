@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Temporary Tagging & csv generator using Google Sheets & Appscript "
+title: "Temporary tagging & csv generator solution using Google Sheets & Appscript "
 date: 2018-04-16
 ---
 
