@@ -2,3 +2,5 @@ name: Nilesh Lahoty | Data & Design
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 remote_theme: pmarsceill/just-the-docs
+
+theme: jekyll-theme-dinky
